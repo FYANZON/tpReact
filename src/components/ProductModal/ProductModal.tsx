@@ -5,7 +5,7 @@ import * as Yup from "yup";
 import { useFormik } from "formik";
 import { ProductService } from "../../services/ProductService";
 import { toast } from "react-toastify";
-import { Dispatch, SetStateAction } from "react";
+import React, { Dispatch, SetStateAction } from "react";
 
 type ProductModalProps = {
   show?: boolean;

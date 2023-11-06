@@ -55,7 +55,7 @@ const CarouselHome = () => {
           <img
             className="d block w 100"
             style={{ maxHeight: "500px", objectFit: "cover" }}
-            src="https://mdbootstrap.com/img/Photos/Slides/img%20(1).webp"
+            src="https://mdbootstrap.com/img/Photos/Slides/img%20(3).webp"
             alt="First slide"
           />
         </div>
