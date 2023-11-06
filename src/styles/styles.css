@@ -1,0 +1,10 @@
+html, body, #root { /* #root es el contenedor principal de tu aplicación */
+    height: 100%;
+  }
+  
+  footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+  }
+  
